@@ -1,4 +1,4 @@
-# Javascript Memory game 
+# CookBook API
 ## Milestone project 3 - Online Cook book
 
 * This site will be 
