@@ -40,7 +40,7 @@
 
 ### colour scheme 
 
-<h2 align="center"><img src=assests/ReadMe/colourscheme.png></h2>
+<h2 align="center"><img src=assets/ReadMe/colourscheme.png></h2>
 
 - 
 
